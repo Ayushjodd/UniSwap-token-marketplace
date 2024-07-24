@@ -5,8 +5,9 @@ coverage.json
 typechain
 typechain-types
 package-lock.json
-
+trace
 # Hardhat files
 cache
 artifacts
 
+.next
